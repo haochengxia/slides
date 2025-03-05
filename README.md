@@ -1,0 +1,3 @@
+```
+typst watch slides.typ
+```
